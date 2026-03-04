@@ -6,7 +6,7 @@ comming soon
 ### Composition ($1457$ pairs)
 
 - **Degradation labels**:
-  - **Optical blur ($1305$ images)**;  **Motion blur ($152$ images)**.
+  - **Optical blur ($1305$)**;  **Motion blur ($152$ )**.
 - **Semantic labels ($12$ categories)**:
   -  person ($309$), bicycle ($22$), motorcycle ($27$), tricycle ($13$), car ($234$), bus ($5$) plane ($54$), statue ($157$), regular object ($248$), building ($706$), road ($132$), and complex scene ($401$).
 
