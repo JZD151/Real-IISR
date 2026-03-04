@@ -43,4 +43,8 @@
 ---
 
 ## 📫 Contact
-If you have any questions, feel free to contact us through <code style="background-color: #f0f0f0;">archerv2@mail.nwpu.edu.cn</code>。
+If you have any questions, feel free to contact us through <code style="background-color: #f0f0f0;">archerv2@mail.nwpu.edu.cn</code>.
+
+## 💡 Acknowledgements
+
+Our codes are based on [VAR](https://github.com/FoundationVision/VAR), [VARSR](https://github.com/quyp2000/VARSR), thanks for their contribution.
