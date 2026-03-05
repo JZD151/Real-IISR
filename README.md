@@ -106,7 +106,7 @@ Degradation labels:
 Optical blur (1305)
 </td>
 <td align="center">
-<img src="assets/figures/Optical_blur1.bmp" width="240"><br>
+<img src="assets/figures/Optical_blur2.bmp" width="240"><br>
 Optical blur (1305)
 </td>
 <td align="center">
