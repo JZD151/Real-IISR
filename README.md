@@ -26,10 +26,10 @@
 
 ### Composition ($1457$ pairs)
 
+- **Scene labels ($12$ categories)**:
+  -  person ($309$), bicycle ($22$), motorcycle ($27$), tricycle ($13$), car ($234$), bus ($5$) plane ($54$), statue ($157$), regular object ($248$), building ($706$), road ($132$), and complex scene ($401$).
 - **Degradation labels**:
   - Optical blur ($1305$);  Motion blur ($152$).
-- **Semantic labels ($12$ categories)**:
-  -  person ($309$), bicycle ($22$), motorcycle ($27$), tricycle ($13$), car ($234$), bus ($5$) plane ($54$), statue ($157$), regular object ($248$), building ($706$), road ($132$), and complex scene ($401$).
 
 - **Total number of image pairs**: $1457$
 
@@ -38,9 +38,71 @@
 ### 🖼️ Preview
 
 ---
+Scene labels:
+<table align="center">
+<tr>
+<td align="center">
+<img src="assets/figures/Person.bmp" width="240"><br>
+person (309)
+</td>
+<td align="center">
+<img src="assets/figures/Bicycle.bmp" width="240"><br>
+bicycle (22)
+</td>
+<td align="center">
+<img src="assets/figures/Motorcycle.bmp" width="240"><br>
+motorcycle (27)
+</td>
+<td align="center">
+<img src="assets/figures/Tricycle.bmp" width="240"><br>
+tricycle (13)
+</td>
+</tr>
 
- 
+<tr>
+<td align="center">
+<img src="assets/figures/Car.bmp" width="240"><br>
+car (234)
+</td>
+<td align="center">
+<img src="assets/figures/Bus.bmp" width="240"><br>
+bus (5)
+</td>
+<td align="center">
+<img src="assets/figures/Plane.bmp" width="240"><br>
+plane (54)
+</td>
+<td align="center">
+<img src="assets/figures/Statue.bmp" width="240"><br>
+statue (157)
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="assets/figures/Regular object.bmp" width="240"><br>
+regular object (248)
+</td>
+<td align="center">
+<img src="assets/figures/Building.bmp" width="240"><br>
+building (706)
+</td>
+<td align="center">
+<img src="assets/figures/Road.bmp" width="240"><br>
+road (132)
+</td>
+<td align="center">
+<img src="assets/figures/Complex Scene.bmp" width="240"><br>
+complex scene (401)
+</td>
+</tr>
+</table>
+
+Degradation labels:
+
+
 ---
+
 
 ## 📫 Contact
 If you have any questions, feel free to contact us through <code style="background-color: #f0f0f0;">archerv2@mail.nwpu.edu.cn</code>.
