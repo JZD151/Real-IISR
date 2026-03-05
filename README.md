@@ -99,7 +99,26 @@ complex scene (401)
 </table>
 
 Degradation labels:
-
+<table align="center">
+<tr>
+<td align="center">
+<img src="assets/figures/Optical_blur1.bmp" width="240"><br>
+Optical blur (1305)
+</td>
+<td align="center">
+<img src="assets/figures/Optical_blur1.bmp" width="240"><br>
+Optical blur (1305)
+</td>
+<td align="center">
+<img src="assets/figures/Motion_blur1.bmp" width="240"><br>
+Motion blur (152)
+</td>
+<td align="center">
+<img src="assets/figures/Motion_blur2.bmp" width="240"><br>
+Motion blur (152)
+</td>
+</tr>
+</table>
 
 ---
 
