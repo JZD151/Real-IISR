@@ -17,7 +17,7 @@
 
 [2026-2-21] Our paper has been accepted by CVPR 2026. The code and dataset have been officially released.🎉🎉🎉
 
-<h2> <p align="center">📦 FLIR-IISR Dataset 📦</p> </h2>
+<h2> <p align="center">📁 FLIR-IISR Dataset 📁</p> </h2>
 
 ## :open_book: Dataset Details 
 
@@ -125,6 +125,9 @@ Motion blur (152)
 
 ---
 
+<h2> <p align="center">📦 Real-IISR 📦</p> </h2>
+
+## ⚙️ Dependencies
 
 ## 📫 Contact
 If you have any questions, feel free to contact us through <code style="background-color: #f0f0f0;">archerv2@mail.nwpu.edu.cn</code>.
