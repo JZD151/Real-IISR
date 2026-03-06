@@ -38,7 +38,7 @@
 
 - **Image size**: $1024 \times 768$
 
-### 🖼️ Preview
+### Preview
 
 ---
 Scene labels:
