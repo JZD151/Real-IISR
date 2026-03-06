@@ -128,6 +128,8 @@ Motion blur (152)
 <h2> <p align="center">📦 Real-IISR 📦</p> </h2>
 
 ## ⚙️ Dependencies
+## 🔧 Training
+## 🔨 Testing
 
 ## 📫 Contact
 If you have any questions, feel free to contact us through <code style="background-color: #f0f0f0;">archerv2@mail.nwpu.edu.cn</code>.
