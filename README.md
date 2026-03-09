@@ -136,14 +136,11 @@ If you have any questions, feel free to contact us through <code style="backgrou
 
 ## 📎 Citation
 ```
-@misc{zou2026realworldinfraredimagesuperresolution,
-      title={Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset}, 
-      author={Yang Zou and Jun Ma and Zhidong Jiao and Xingyuan Li and Zhiying Jiang and Jinyuan Liu},
-      year={2026},
-      eprint={2603.04745},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.04745}, 
+@article{zou2026toward,
+  title={Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset},
+  author={Zou, Yang and Ma, Jun and Jiao, Zhidong and Li, Xingyuan and Jiang, Zhiying and Liu, Jinyuan},
+  journal={arXiv preprint arXiv:2603.04745},
+  year={2026}
 }
 ```
 
