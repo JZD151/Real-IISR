@@ -11,6 +11,8 @@
 </div>
 
 ## :rocket: Updates 
+[2026-3-10] Our training code and inference code is now available.🔥🔥🔥 
+
 [2026-3-6] You can find our paper [here](https://arxiv.org/abs/2603.04745). ⭐️⭐️⭐️
 
 [2026-3-4] Our dataset is now available.🔥🔥🔥 
@@ -128,10 +130,36 @@ Motion blur (152)
 <h2> <p align="center">📦 Real-IISR 📦</p> </h2>
 
 ## ⚙️ Dependencies
+
+```
+git clone https://github.com/JZD151/Real-IISR.git
+cd Real-IISR
+
+conda create -n Real-IISR python=3.10
+conda activate Real-IISR
+pip install -r requirements.txt
+pip install flash_attn-2.7.4.post1 --no-build-isolation
+```
+
 ## 🔧 Training
+
+1. Download the pretrained VQVAE and VARSR models from [![](https://img.shields.io/badge/Huggingface-FFD21E?style=&logo=huggingface&logoColor=white)](https://huggingface.co/qyp2000/VARSR/resolve/main/VQVAE.pth?download=true) and [![](https://img.shields.io/badge/Huggingface-FFD21E?style=&logo=huggingface&logoColor=white)](https://huggingface.co/qyp2000/VARSR/resolve/main/VARSR.pth?download=true), and place them in the ./checkpoints directory.
+2. Download the FLIR-IISR dataset and extract it.
+
+```
+python train.py --batch_size 4 --ep 20 --fp16 1 --tblr 5e-5 --alng 1e-4 --wpe 0.01 --fuse 0 --exp_name Real-IISR
+```
+
 ## 🔨 Testing
 
+1. Download the pretrained model from [![](https://img.shields.io/badge/GoogleDrive-4285F4?style=&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QIPIXx4Sr5DxYFzu1D8x1T4-AwDeMRL8/view?usp=sharing) , and place them in the ./checkpoints directory.
+
+```
+python test.py
+```
+
 ## 📫 Contact
+
 If you have any questions, feel free to contact us through <code style="background-color: #f0f0f0;">archerv2@mail.nwpu.edu.cn</code>.
 
 ## 📎 Citation

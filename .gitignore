@@ -1,0 +1,135 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytype
+.pytype/
+
+# Ruff
+.ruff_cache/
+
+# Pyre
+.pyre/
+
+# Cython debug symbols
+cython_debug/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local database files
+*.sqlite3
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Packaging / build tools
+pip-wheel-metadata/
+
+# Documentation builds
+docs/_build/
+
+# mkdocs
+site/
+
+# Cache
+.cache/
+
+# Type checker / linter caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# PEP 582
+__pypackages__/
+
+# Secrets / local config
+secrets.toml
+*.env
+
+# Optional: ignore generated data/models
+data/
+outputs/
+checkpoints/
+*.ckpt
+*.pth
+*.pt
+FLIR-IISR
+testset
+results
