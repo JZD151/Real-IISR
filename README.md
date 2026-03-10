@@ -11,7 +11,7 @@
 </div>
 
 ## :rocket: Updates 
-[2026-3-10] Our training code and inference code is now available.🔥🔥🔥 
+[2026-3-10] Our training code and inference code is now available.📦📦📦
 
 [2026-3-6] You can find our paper [here](https://arxiv.org/abs/2603.04745). ⭐️⭐️⭐️
 
