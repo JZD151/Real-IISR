@@ -23,7 +23,7 @@
 
 ### Download
 
-[![](https://img.shields.io/badge/GoogleDrive-4285F4?style=&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1I0w6Mpgm9gr7SwAtVdOWnQQKpn_Q6N1M/view?usp=sharing)
+[![](https://img.shields.io/badge/GoogleDrive-4285F4?style=&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/160kKxHLxzZWXKILFLncoWRhB33SriWCP/view?usp=sharing)
 [![](https://img.shields.io/badge/Huggingface-FFD21E?style=&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/yuanzsz/FLIR-IISR/tree/main)
 [![](https://img.shields.io/badge/BaiduNetdisk-06A7FF?style=&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1oysR3x-BCCLrd992Wq6Upw?pwd=FLIR)
 
