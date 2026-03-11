@@ -156,10 +156,6 @@ python train.py --batch_size 4 --ep 20 --fp16 1 --tblr 5e-5 --alng 1e-4 --wpe 0.
 python test.py
 ```
 
-## 📫 Contact
-
-If you have any questions, feel free to contact us through <code style="background-color: #f0f0f0;">archerv2@mail.nwpu.edu.cn</code>.
-
 ## 📎 Citation
 ```
 @article{zou2026toward,
@@ -169,6 +165,10 @@ If you have any questions, feel free to contact us through <code style="backgrou
   year={2026}
 }
 ```
+
+## 📫 Contact
+
+If you have any questions, feel free to contact us through <code style="background-color: #f0f0f0;">archerv2@mail.nwpu.edu.cn</code>.
 
 ## 💡 Acknowledgements
 
