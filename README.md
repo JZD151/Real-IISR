@@ -128,6 +128,7 @@ Motion blur (152)
 ---
 
 <h2> <p align="center">📦 Real-IISR 📦</p> </h2>
+![Pipeline](assets/Pipeline.jpg)
 
 ## ⚙️ Dependencies
 
