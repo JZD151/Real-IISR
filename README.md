@@ -11,7 +11,7 @@
 </div>
 
 ## :rocket: Updates 
-[2026-3-10] Our training code and inference code is now available.📦📦📦
+[2026-3-10] Our training code and inference code is now available.😎😎😎
 
 [2026-3-6] You can find our paper [here](https://arxiv.org/abs/2603.04745). ⭐️⭐️⭐️
 
@@ -19,15 +19,11 @@
 
 [2026-2-21] Our paper has been accepted by CVPR 2026. The code and dataset have been officially released.🎉🎉🎉
 
-<h2> <p align="center">📁 FLIR-IISR Dataset 📁</p> </h2>
+<h2> <p align="center">💾 FLIR-IISR Dataset 💾</p> </h2>
 
 ## :open_book: Dataset Details 
 
-### Download
-
-[![](https://img.shields.io/badge/GoogleDrive-4285F4?style=&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/160kKxHLxzZWXKILFLncoWRhB33SriWCP/view?usp=sharing)
-[![](https://img.shields.io/badge/Huggingface-FFD21E?style=&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/yuanzsz/FLIR-IISR/tree/main)
-[![](https://img.shields.io/badge/BaiduNetdisk-06A7FF?style=&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1oysR3x-BCCLrd992Wq6Upw?pwd=FLIR)
+### Download [![](https://img.shields.io/badge/GoogleDrive-4285F4?style=&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/160kKxHLxzZWXKILFLncoWRhB33SriWCP/view?usp=sharing) [![](https://img.shields.io/badge/Huggingface-FFD21E?style=&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/yuanzsz/FLIR-IISR/tree/main) [![](https://img.shields.io/badge/BaiduNetdisk-06A7FF?style=&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1oysR3x-BCCLrd992Wq6Upw?pwd=FLIR)
 
 ### Composition ($1457$ pairs)
 
@@ -145,7 +141,7 @@ pip install flash_attn-2.7.4.post1 --no-build-isolation
 
 ## 🔧 Training
 
-1. Download the pretrained VQVAE and VARSR models from [![](https://img.shields.io/badge/Huggingface-FFD21E?style=&logo=huggingface&logoColor=white)](https://huggingface.co/qyp2000/VARSR/resolve/main/VQVAE.pth?download=true) and [![](https://img.shields.io/badge/Huggingface-FFD21E?style=&logo=huggingface&logoColor=white)](https://huggingface.co/qyp2000/VARSR/resolve/main/VARSR.pth?download=true), and place them in the ./checkpoints directory.
+1. Download the pretrained [VQVAE](https://huggingface.co/qyp2000/VARSR/resolve/main/VQVAE.pth?download=true) and [VARSR](https://huggingface.co/qyp2000/VARSR/resolve/main/VARSR.pth?download=true) models, and place them in the ./checkpoints directory.
 2. Download the FLIR-IISR dataset and extract it.
 
 ```
@@ -154,7 +150,7 @@ python train.py --batch_size 4 --ep 20 --fp16 1 --tblr 5e-5 --alng 1e-4 --wpe 0.
 
 ## 🔨 Testing
 > **Note:** We provide several sample inputs for easy inference.
-1. Download the pretrained model from [![](https://img.shields.io/badge/GoogleDrive-4285F4?style=&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QIPIXx4Sr5DxYFzu1D8x1T4-AwDeMRL8/view?usp=sharing) , and place it in the ./checkpoints directory.
+1. Download the pretrained model from [GoogleDrive](https://drive.google.com/file/d/1QIPIXx4Sr5DxYFzu1D8x1T4-AwDeMRL8/view?usp=sharing) / [HuggingFace](https://huggingface.co/datasets/yuanzsz/FLIR-IISR/tree/main) , and place it in the ./checkpoints directory.
 
 ```
 python test.py
