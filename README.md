@@ -151,7 +151,7 @@ python train.py --batch_size 4 --ep 20 --fp16 1 --tblr 5e-5 --alng 1e-4 --wpe 0.
 ```
 
 ## 🔨 Testing
-
+> **Note:** We provide several sample inputs for easy inference.
 1. Download the pretrained model from [![](https://img.shields.io/badge/GoogleDrive-4285F4?style=&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QIPIXx4Sr5DxYFzu1D8x1T4-AwDeMRL8/view?usp=sharing) , and place it in the ./checkpoints directory.
 
 ```
