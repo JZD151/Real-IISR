@@ -2,7 +2,7 @@
 
 <h1 align="center">Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset</h1>
 
-[Yang Zou](mailto:archerv2@mail.nwpu.edu.cn), [Jun Ma](mailto:junma.work812@gmail.com), [Zhidong Jiao](mailto:jiaozhidong97@gmail.com), [Xingyuan Li](mailto:xingyuan_lxy@163.com), Zhiying Jiang, and Jinyuan Liu, "Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset", CVPR 2026
+[Yang Zou](mailto:archerv2@mail.nwpu.edu.cn), [Jun Ma](mailto:junma.work812@gmail.com), [Zhidong Jiao](mailto:jiaozhidong97@gmail.com), [Xingyuan Li](mailto:xingyuan_lxy@163.com), Zhiying Jiang, and Jinyuan Liu, "Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset", CVPR 2026 Highlight
 
 <div>
 <a href="https://arxiv.org/abs/2603.04745"><img src="https://img.shields.io/badge/arXiv-2603.04745-b31b1b"></a>
