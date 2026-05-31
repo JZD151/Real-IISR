@@ -13,7 +13,7 @@
 ## :rocket: Updates 
 [2026-3-10] Our training code and inference code is now available.🎊🎊🎊
 
-[2026-3-6] You can find our paper [here]([https://arxiv.org/abs/2603.04745](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Toward_Real-world_Infrared_Image_Super-Resolution_A_Unified_Autoregressive_Framework_and_CVPR_2026_paper.pdf)). ⭐️⭐️⭐️
+[2026-3-6] You can find our paper [here](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Toward_Real-world_Infrared_Image_Super-Resolution_A_Unified_Autoregressive_Framework_and_CVPR_2026_paper.pdf). ⭐️⭐️⭐️
 
 [2026-3-4] Our dataset is now available.🔥🔥🔥 
 
