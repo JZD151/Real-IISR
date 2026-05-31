@@ -5,7 +5,7 @@
 [Yang Zou](mailto:archerv2@mail.nwpu.edu.cn), [Jun Ma](mailto:junma.work812@gmail.com), [Zhidong Jiao](mailto:jiaozhidong97@gmail.com), [Xingyuan Li](mailto:xingyuan_lxy@163.com), Zhiying Jiang, and Jinyuan Liu, "Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset", CVPR 2026 Highlight
 
 <div>
-<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Toward_Real-world_Infrared_Image_Super-Resolution_A_Unified_Autoregressive_Framework_and_CVPR_2026_paper.pdf"> <img src="https://img.shields.io/badge/CVPR-2026-4b44ce" alt="CVPR 2026"> </a>
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Toward_Real-world_Infrared_Image_Super-Resolution_A_Unified_Autoregressive_Framework_and_CVPR_2026_paper.pdf"> <img src="https://img.shields.io/badge/CVPR-2026-4b44ce" alt="CVPR 2026"></a>
 <a href="https://github.com/JZD151/Real-IISR" target='_blank' style="text-decoration: none;"><img src="https://visitor-badge.laobi.icu/badge?page_id=JZD151/Real-IISR"></a>
 <a href="https://github.com/JZD151/Real-IISR/stargazers" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/stars/JZD151/Real-IISR?style=social"></a>
 </div>
@@ -158,10 +158,11 @@ python test.py
 
 ## 📎 Citation
 ```
-@article{zou2026toward,
-  title={Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset},
+@inproceedings{zou2026toward,
+  title={Toward real-world infrared image super-resolution: A unified autoregressive framework and benchmark dataset},
   author={Zou, Yang and Ma, Jun and Jiao, Zhidong and Li, Xingyuan and Jiang, Zhiying and Liu, Jinyuan},
-  journal={arXiv preprint arXiv:2603.04745},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={16365--16375},
   year={2026}
 }
 ```
