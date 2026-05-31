@@ -5,7 +5,7 @@
 [Yang Zou](mailto:archerv2@mail.nwpu.edu.cn), [Jun Ma](mailto:junma.work812@gmail.com), [Zhidong Jiao](mailto:jiaozhidong97@gmail.com), [Xingyuan Li](mailto:xingyuan_lxy@163.com), Zhiying Jiang, and Jinyuan Liu, "Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset", CVPR 2026 Highlight
 
 <div>
-<a href="https://arxiv.org/abs/2603.04745"><img src="https://img.shields.io/badge/arXiv-2603.04745-b31b1b"></a>
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Toward_Real-world_Infrared_Image_Super-Resolution_A_Unified_Autoregressive_Framework_and_CVPR_2026_paper.pdf"> <img src="https://img.shields.io/badge/CVPR-2026-4b44ce" alt="CVPR 2026"> </a>
 <a href="https://github.com/JZD151/Real-IISR" target='_blank' style="text-decoration: none;"><img src="https://visitor-badge.laobi.icu/badge?page_id=JZD151/Real-IISR"></a>
 <a href="https://github.com/JZD151/Real-IISR/stargazers" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/stars/JZD151/Real-IISR?style=social"></a>
 </div>
@@ -13,7 +13,7 @@
 ## :rocket: Updates 
 [2026-3-10] Our training code and inference code is now available.🎊🎊🎊
 
-[2026-3-6] You can find our paper [here](https://arxiv.org/abs/2603.04745). ⭐️⭐️⭐️
+[2026-3-6] You can find our paper [here]([https://arxiv.org/abs/2603.04745](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Toward_Real-world_Infrared_Image_Super-Resolution_A_Unified_Autoregressive_Framework_and_CVPR_2026_paper.pdf)). ⭐️⭐️⭐️
 
 [2026-3-4] Our dataset is now available.🔥🔥🔥 
 
