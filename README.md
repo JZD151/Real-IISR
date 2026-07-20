@@ -150,7 +150,7 @@ python train.py --batch_size 4 --ep 20 --fp16 1 --tblr 5e-5 --alng 1e-4 --wpe 0.
 
 ## 🔨 Testing
 > **Note:** We provide several sample inputs for easy inference.
-1. Download the pretrained model from [GoogleDrive](https://drive.google.com/file/d/1QIPIXx4Sr5DxYFzu1D8x1T4-AwDeMRL8/view?usp=sharing) / [HuggingFace](https://huggingface.co/datasets/yuanzsz/FLIR-IISR/tree/main) , and place it in the ./checkpoints directory.
+1. Download the pretrained model from [百度网盘](https://pan.baidu.com/s/1Ke5ug9y4j-TkGhdss5J-NQ?pwd=1050) / [HuggingFace](https://huggingface.co/datasets/yuanzsz/FLIR-IISR/tree/main) , and place it in the ./checkpoints directory.
 
 ```
 python test.py
